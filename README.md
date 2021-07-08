@@ -1,2 +1,2 @@
 # my-strava-activities
-My Strava Activity Tracking from Jan to June 2021
+My Strava Activity Tracking from January to June 2021
